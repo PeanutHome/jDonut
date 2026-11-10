@@ -61,6 +61,16 @@ flutter build ios --simulator -t lib/main_prod.dart
 # Zip the .app under build/ios/iphonesimulator/ for submission
 ```
 
+### Downloads (Drive links)
+
+| Artifact | File | Link |
+|----------|------|------|
+| Android release APK | `jdonut-zawe-release.apk` | [Download](https://drive.google.com/file/d/1JcBD4Ad3sNHXZ56gZWqw7ff3UEPsSevC/view?usp=drive_link) |
+| Screen recording (2–4 min) | `jdonut-zawe-release.mp4` (or `.mkv`) | _paste Drive link_ |
+| iOS Simulator `.app` zip | `jdonut-zawe-release-ios-simulator.zip` | _optional / when available_ |
+
+Set each Drive file to **Anyone with the link can download**.
+
 ---
 
 ## Architecture
