@@ -1,0 +1,23 @@
+{
+  "@@locale": "my",
+  "appTitle": "J'Donuts",
+  "letsGetStarted": "စတင်လိုက်ပါ",
+  "letsExplore": "လေ့လာကြည့်မယ်",
+  "continueLabel": "ဆက်လုပ်မည်",
+  "logOut": "ထွက်မည်",
+  "offlineBanner": "အင်တာနက်မရှိ — သိမ်းထားသောဒေတာကို ပြသနေသည်",
+  "addToCart": "ခြင်းတောင်းထည့်မည်",
+  "whatsThis": "ဒါဘာလဲ?",
+  "whatsThisShort": "ဒါ\nဘာလဲ?",
+  "newBadge": "အသစ်",
+  "percentOff": "{percent}% လျှော့",
+  "productNotFound": "ပစ္စည်းမတွေ့ပါ",
+  "retry": "ပြန်ကြိုးစားမည်",
+  "addedToCart": "ခြင်းတောင်းထည့်ပြီး",
+  "noChallengesYet": "စိန်ခေါ်မှုမရှိသေးပါ",
+  "exploreNow": "ရှာဖွေမည်",
+  "orderOnline": "အွန်လိုင်းမှာယူမည်",
+  "shopsNearYou": "အနီးအနားတွင် J'Donut ဆိုင် {count} ဆိုင် ရှိသည်။",
+  "mmkPrice": "{amount} ကျပ်",
+  "couldNotLoadHome": "ပင်မစာမျက်နှာ မရနိုင်ပါ"
+}

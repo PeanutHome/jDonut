@@ -1,0 +1,38 @@
+{
+  "@@locale": "en",
+  "appTitle": "J'Donuts",
+  "letsGetStarted": "LET'S GET STARTED",
+  "letsExplore": "LET'S EXPLORE",
+  "continueLabel": "Continue",
+  "logOut": "Log out",
+  "offlineBanner": "You're offline — showing saved data",
+  "addToCart": "ADD TO CART",
+  "whatsThis": "What's this?",
+  "whatsThisShort": "What's\nthis?",
+  "newBadge": "New",
+  "percentOff": "{percent}% off",
+  "@percentOff": {
+    "placeholders": {
+      "percent": { "type": "int" }
+    }
+  },
+  "productNotFound": "Product not found",
+  "retry": "Retry",
+  "addedToCart": "Added to cart",
+  "noChallengesYet": "No challenges yet",
+  "exploreNow": "EXPLORE NOW",
+  "orderOnline": "Order Online",
+  "shopsNearYou": "There are {count} J'Donut shops\nnear you.",
+  "@shopsNearYou": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "mmkPrice": "{amount} MMK",
+  "@mmkPrice": {
+    "placeholders": {
+      "amount": { "type": "String" }
+    }
+  },
+  "couldNotLoadHome": "Could not load home"
+}

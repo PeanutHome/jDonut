@@ -1,0 +1,181 @@
+{
+  "meta": { "version": "v1" },
+  "member": {
+    "displayName": "Hania",
+    "tier": "Bronze",
+    "nextTier": "Gold",
+    "pointsToNextTier": 1290,
+    "totalPoints": 4710,
+    "notificationCount": 2,
+    "avatarAsset": "assets/images/avatar_hania.jpg"
+  },
+  "banners": [
+    {
+      "id": "b_central",
+      "eyebrow": "We are now at",
+      "title": "Central Boulevard",
+      "badge": "New shop",
+      "imageAsset": "assets/images/shop_central_display.jpg",
+      "imageUrl": null,
+      "backgroundColor": "#6256A5",
+      "accentColor": "#6E8FDB"
+    }
+  ],
+  "sections": [
+    { "id": "seasonal", "title": "Seasonal specials", "productIds": ["p_mistletoe", "p_mini_family", "p_sweet_box"] },
+    { "id": "popular", "title": "Popular 🔥", "productIds": ["p_strawberry", "p_coffee", "p_coconut"] },
+    { "id": "order_again", "title": "Order again", "productIds": ["p_santa_cookies", "p_santa_coffee"] }
+  ],
+  "products": [
+    {
+      "id": "p_coconut",
+      "code": "JD022123",
+      "name": "Coconut Donut",
+      "priceMmk": 3200,
+      "isNew": true,
+      "discountPercent": null,
+      "imageAsset": "assets/images/products/coconut_donut.jpg",
+      "imageUrl": null,
+      "description": "Enjoy our scrumptious donuts baked fresh daily with toasted coconut flakes and a light glaze."
+    },
+    {
+      "id": "p_mistletoe",
+      "code": "JD119001",
+      "name": "Mistletoe Romance box",
+      "priceMmk": 18500,
+      "isNew": false,
+      "discountPercent": 50,
+      "imageAsset": "assets/images/products/romance_box.jpg",
+      "imageUrl": null,
+      "description": "A festive box of romance-themed donuts for sharing."
+    },
+    {
+      "id": "p_mini_family",
+      "code": "JD119002",
+      "name": "Christmas Mini Family box",
+      "priceMmk": 14200,
+      "isNew": false,
+      "discountPercent": null,
+      "imageAsset": "assets/images/products/mini_family.jpg",
+      "imageUrl": null,
+      "description": "Mini donuts for the whole family."
+    },
+    {
+      "id": "p_sweet_box",
+      "code": "JD119003",
+      "name": "Sweet Donut Box",
+      "priceMmk": 16800,
+      "isNew": false,
+      "discountPercent": null,
+      "imageAsset": "assets/images/products/sweet_box.jpg",
+      "imageUrl": null,
+      "description": "Assorted sweet glazes in one box."
+    },
+    {
+      "id": "p_strawberry",
+      "code": "JD330011",
+      "name": "Strawberry Chocolate Donuts",
+      "priceMmk": 3600,
+      "isNew": false,
+      "discountPercent": null,
+      "imageAsset": "assets/images/products/strawberry_donut.jpg",
+      "imageUrl": null,
+      "description": "Strawberry icing with chocolate drizzle."
+    },
+    {
+      "id": "p_coffee",
+      "code": "JD440022",
+      "name": "Dalgona Creamy Coffee",
+      "priceMmk": 2800,
+      "isNew": false,
+      "discountPercent": null,
+      "imageAsset": "assets/images/products/coffee_drink.jpg",
+      "imageUrl": null,
+      "description": "Creamy dalgona coffee to pair with donuts."
+    },
+    {
+      "id": "p_santa_cookies",
+      "code": "JD550033",
+      "name": "Santa’s favorite cookies set",
+      "priceMmk": 9200,
+      "isNew": false,
+      "discountPercent": 20,
+      "imageAsset": "assets/images/products/sweet_box.jpg",
+      "imageUrl": null,
+      "description": "Cookie set with holiday sprinkles."
+    },
+    {
+      "id": "p_santa_coffee",
+      "code": "JD550034",
+      "name": "Santa’s favorite cookies set",
+      "priceMmk": 8900,
+      "isNew": false,
+      "discountPercent": 20,
+      "imageAsset": "assets/images/products/romance_box.jpg",
+      "imageUrl": null,
+      "description": "Holiday coffee bundle."
+    }
+  ],
+  "shops": [
+    {
+      "id": "s_myaynigone",
+      "name": "Myaynigone J’Donut",
+      "address": "2972 Pyay Road, Sanchaung Township, Yangon.",
+      "imageAsset": "assets/images/shop_myaynigone.jpg",
+      "imageUrl": null
+    },
+    {
+      "id": "s_central",
+      "name": "Central Boulevard J’Donut",
+      "address": "Central Boulevard, Kamayut Township, Yangon.",
+      "imageAsset": "assets/images/shop_central_display.jpg",
+      "imageUrl": null
+    },
+    {
+      "id": "s_bahan",
+      "name": "Bahan J’Donut",
+      "address": "Inya Road, Bahan Township, Yangon.",
+      "imageAsset": "assets/images/donut_pink.jpg",
+      "imageUrl": null
+    },
+    {
+      "id": "s_mayangone",
+      "name": "Mayangone J’Donut",
+      "address": "Kabar Aye Pagoda Road, Mayangone, Yangon.",
+      "imageAsset": "assets/images/donut_peach.jpg",
+      "imageUrl": null
+    }
+  ],
+  "challenges": [
+    {
+      "id": "c_coco_complete",
+      "title": "Eat 4 Coco donuts",
+      "current": 4,
+      "total": 4,
+      "points": 100,
+      "imageAsset": "assets/images/products/rewards_coconut_top.jpg",
+      "buttonLabel": "EARN",
+      "kind": "pieces"
+    },
+    {
+      "id": "c_coco_progress",
+      "title": "Eat 4 Coco donuts",
+      "current": 1,
+      "total": 4,
+      "points": 100,
+      "imageAsset": "assets/images/products/rewards_coconut_top.jpg",
+      "buttonLabel": "EARN",
+      "kind": "pieces"
+    },
+    {
+      "id": "c_americano",
+      "title": "Drink 12 cups americano",
+      "current": 9,
+      "total": 12,
+      "points": 100,
+      "imageAsset": "assets/images/products/coffee_drink.jpg",
+      "buttonLabel": "DRINK",
+      "kind": "arc"
+    }
+  ]
+}

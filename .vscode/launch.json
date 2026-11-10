@@ -1,0 +1,47 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Zawe Dev",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main_dev.dart",
+      "args": [
+        "--flavor",
+        "dev",
+        "--dart-define-from-file=flavors/dev.json"
+      ]
+    },
+    {
+      "name": "Zawe Staging",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main_staging.dart",
+      "args": [
+        "--flavor",
+        "staging",
+        "--dart-define-from-file=flavors/staging.json"
+      ]
+    },
+    {
+      "name": "Zawe Prod",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main_prod.dart",
+      "args": [
+        "--flavor",
+        "prod",
+        "--dart-define-from-file=flavors/prod.json"
+      ]
+    },
+    {
+      "name": "Zawe (dart-define only)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "args": [
+        "--dart-define-from-file=flavors/dev.json"
+      ]
+    }
+  ]
+}
