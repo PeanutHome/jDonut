@@ -193,13 +193,4 @@ Product detail opens from Home (and Donuts) with a shared-element **Hero** on th
 
 Within the allotted **2-day** code-test window (implementation + polish + tests + README).
 
----
-
-## Submission checklist
-
-1. Public Git repo with small, readable commits  
-2. Release `.apk` + zipped iOS Simulator `.app`  
-3. 2–4 min recording: register → logout → login → Home → Product → Rewards → airplane mode  
-4. This README  
-
 Design screenshots from the client brief are **not** committed.
